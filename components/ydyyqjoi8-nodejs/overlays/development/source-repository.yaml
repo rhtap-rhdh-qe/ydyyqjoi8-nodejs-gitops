@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ydyyqjoi8-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ydyyqjoi8-nodejs
